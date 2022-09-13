@@ -178,7 +178,7 @@ nav {
 
 }
 
-.hesopo, .dynatrace, .grafana, .ASM, .callcenter, .svd, .wompi, .antares, .web h1{
+.hesopo, .dynatrace, .grafana, .ASM, .callcenter, .svd, .wompi, .antares, .web, .backoffice, .psl, .hybris, .Tienda, .privun, .chatbots h1{
     text-align: center;
   
 }
@@ -245,6 +245,46 @@ nav {
 }
 
  .web img{
+    width: 100%;
+    height: 50%;
+    border-radius: 20px;
+    box-shadow:0px 0px 5px rgb(0, 0, 0);
+}
+
+.backoffice img{
+    width: 100%;
+    height: 50%;
+    border-radius: 20px;
+    box-shadow:0px 0px 5px rgb(0, 0, 0);
+}
+.psl img{
+    width: 100%;
+    height: 50%;
+    border-radius: 20px;
+    box-shadow:0px 0px 5px rgb(0, 0, 0);
+}
+
+.hybris img{
+    width: 100%;
+    height: 50%;
+    border-radius: 20px;
+    box-shadow:0px 0px 5px rgb(0, 0, 0);
+}
+
+.Tienda img{
+    width: 100%;
+    height: 50%;
+    border-radius: 20px;
+    box-shadow:0px 0px 5px rgb(0, 0, 0);
+}
+.privun img{
+    width: 100%;
+    height: 50%;
+    border-radius: 20px;
+    box-shadow:0px 0px 5px rgb(0, 0, 0);
+}
+
+.chatbots img{
     width: 100%;
     height: 50%;
     border-radius: 20px;
