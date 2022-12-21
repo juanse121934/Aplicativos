@@ -109,9 +109,10 @@ nav {
 
 .submenu{
     position: absolute;
-    background: #00229170;
-  
-    width: 100px;
+    background: #ffffff;
+    box-shadow:0px 0px 5px rgb(0, 0, 0);
+    width: 110px;
+
     border-radius: 5px;
     display: none;
    
@@ -123,7 +124,9 @@ nav {
     display: block;
     margin-left: -35px;
     padding: 5px;
-   color: #fff;
+   color: #000000f1;
+   font-family: Bahnschrift Condensed; 
+
 
 }
 .menu li:hover .submenu{
